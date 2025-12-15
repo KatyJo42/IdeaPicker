@@ -13,12 +13,7 @@
                 ContentTemplate="{DataTemplate local:AddPage}"
                 Route="AddPage" />
         </Tab>
-        <Tab Title="List Ideas" Icon="find_tab">
-            <ShellContent
-                Title="List Ideas"
-                ContentTemplate="{DataTemplate local:FindPage}"
-                Route="FindPage" />
-        </Tab>
+     
     </TabBar>
 
 </Shell>
